@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redis, GraphQL, etc**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jaya-sai-gorres-projects.vercel.app/](https://portfolio-jaya-sai-gorres-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://3d-portfolio-git-main-jaya-sai-gorres-projects.vercel.app/)
 
 - 📫 How to reach me **jayasaigorre7965@gmail.com**
 
